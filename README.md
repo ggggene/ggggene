@@ -37,9 +37,11 @@
 #####   Hi there 👋 -->
 ---
 
+<!--
 **굵게** <br>
 *이탤릭체* <br>
-~~취소선 긋기~~ <br>
+~~취소선 긋기~~ -->
+<br>
 
 
 *  *[Steady Coder Blog](https://all-for-coder.tistory.com)*
