@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=random&height=300&section=header&text=Newgene%20GitHub&fontSize=90&animation=blink)
 
+![pinterest_profile_image](https://github.com/user-attachments/assets/04240d4e-69a3-4b7d-a1b1-00b7ad506231)
+
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=ggggene)](https://github.com/ggggene)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggggene)](https://github.com/ggggene/github-readme-stats)
@@ -14,7 +16,6 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
-<img src ='images/IMG_8549.jpg' height=300 width=500> </img>
 
 
 # Hi there 👋
