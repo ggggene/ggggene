@@ -14,7 +14,8 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Serverlet](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-![Python](https://github.com/user-attachments/assets/ba342294-c198-47d0-a970-8f39cabe39d2)
+![python]
+
 
 
 
