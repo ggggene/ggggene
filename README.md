@@ -41,12 +41,9 @@
 *이탤릭체* <br>
 ~~취소선 긋기~~ <br>
 
-* 1번
-* 2번
-* 3번 <br>
 
-* [Steady Coder Blog](https://all-for-coder.tistory.com)
-* [PSCR Team Blog](https://www.naver.com)
+*  *[Steady Coder Blog](https://all-for-coder.tistory.com)*
+*  *[PSCR Team Blog](https://www.naver.com)*
 
 
 ```
