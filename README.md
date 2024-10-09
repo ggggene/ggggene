@@ -16,13 +16,14 @@
 
 <img src ='images/IMG_8549.jpg' height=300 width=500> </img>
 
-<!--
+
 # Hi there 👋
+<!--
 ## Hi there 👋
 ### Hi there 👋
 #### Hi there 👋
-##### Hi there 👋 -->
-#####   Hi there 👋
+##### Hi there 👋
+#####   Hi there 👋 -->
 ---
 
 **굵게** <br>
@@ -33,7 +34,8 @@
 * 2번
 * 3번 <br>
 
-[네이버](https://www.naveer.com)
+[Steady Coder Blog](https://all-for-coder.tistory.com)
+[PSCR Team Blog](https://www.naver.com)
 
 
 ```
