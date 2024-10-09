@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=random&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=egg&color=random&height=300&section=header&text=Newgene%20GitHub&fontSize=90&animation=blink)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=ggggene)](https://github.com/ggggene)
 
@@ -38,7 +38,7 @@
 
 ```
 
-print("인공지능 실력반입니다")
+print("코딩하는 Gene입니다")
 ```
 
 
